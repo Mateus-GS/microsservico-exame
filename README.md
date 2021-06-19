@@ -12,7 +12,7 @@
 ```
 * Após ter o Java e o Maven instalados clone o projeto;
 ```
-  git clone https://github.com/Mateus-GS/mobile.git
+  git clone https://github.com/Mateus-GS/microsservico-exame.git
 ```
 * Agora atualize as dependências do  Maven dentro da IDE para ele baixar as dependências para você.
 * Agora crie uma tabela na AWS no DynamoDB com o nome "exame" .
