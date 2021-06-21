@@ -2,7 +2,7 @@ package br.com.backend;
 
 import java.util.Date;
 
-import br.com.backend.entidades.Categoria;
+
 import br.com.backend.entidades.Exame;
 import br.com.backend.persistencia.DynamoDBConfig;
 
